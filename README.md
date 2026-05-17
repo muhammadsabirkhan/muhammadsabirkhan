@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **BS Software Engineering** @ COMSATS University Islamabad, Wah Campus *(5th Semester)*
+- 🎓 **BS Software Engineering** @ COMSATS University Islamabad, Wah Campus *(6th Semester)*
 - 🛍️ Building **PrimeWear** — A full-stack PHP E-Commerce platform
 - 🌱 Currently learning **Laravel** & **Advanced Flutter**
 - 💬 Ask me about **PHP, Flutter, MySQL, E-Commerce**
