@@ -47,7 +47,9 @@ I'm a **Software Engineering student** at COMSATS University Islamabad (Wah Camp
 ### 🔥 Latest Activity
 
 <!--RECENT_ACTIVITY:START-->
-_Waiting for the first workflow run..._
+- 🐛 Opened an issue in [Stremio/stremio-features](https://github.com/Stremio/stremio-features) · `2026-11-05`
+
+<sub>Last updated: 24 Nov 2026, 13:09 UTC</sub>
 <!--RECENT_ACTIVITY:END-->
 
 ---
